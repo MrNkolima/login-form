@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Simple Login system with</title>
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Rubik:400,700'>
+  <link rel="stylesheet" href="./style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=0.7">
+</head>
+<body>
+
+ 
+<div class="login-form" id="form-create" style="display: none;">
+<form id="form-create">
+<h1>Create Account</h1>
+    <div class="content">
+      <div class="input-field">
+        <input type="email" placeholder="Write Your Email" required>
+      </div>
+      <div class="input-field">
+        <input type="password" placeholder="Create Password" required>
+      </div>
+    </div>
+    <div class="action">
+      <button>Register</button>
+      <button onclick="turnLogin()">Login</button>
+    </div>
+</form>
+</div>
+
+
+<div class="login-form" id="form-login">
+  <form id="form">
+    <h1>Login</h1>
+    <div class="content">
+      <div class="input-field">
+        <input type="email" placeholder="Email" autocomplete="nope" name="email" required>
+      </div>
+      <div class="input-field">
+        <input type="password" placeholder="Password" autocomplete="new-password" name="pwd"  required>
+      </div>
+       <div id="result"> </div>
+      <a href="#" class="link">Forgot Your Password?</a>
+    </div>
+    <div class="action">
+      <button onclick="changeToRegister()">Register</button>
+      <button type="submit"  onclick="login()">Sign in</button>
+    </div>
+  </form>
+</div>
+
+<script src="script.js"> </script>
+</body>
+</html>
