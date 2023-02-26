@@ -73,28 +73,25 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@isack_nkolima](https://twitter.com/your_username) - email@example.com
+Isack Nkolima- [@isack_nkolima](https://twitter.com/your_username)
 
-Project Link: [https://github.com/MrNkolima/login-form](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Project Link: [https://github.com/MrNkolima/login-form](https://github.com/MrNkolima/login-form)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/MrNkolima/login-form.svg?style=for-the-badge
+[contributors-url]: https://github.com/MrNkolima/login-form/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MrNkolima/login-form.svg?style=for-the-badge
+[forks-url]: https://github.com/MrNkolima/login-form/network/members
+[stars-shield]: https://img.shields.io/github/stars/MrNkolima/login-form.svg?style=for-the-badge
+[stars-url]: https://github.com/MrNkolima/login-form/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MrNkolima/login-form.svg?style=for-the-badge
+[issues-url]: https://github.com/MrNkolima/MrNkolima/issues
+[license-shield]: https://img.shields.io/github/license/MrNkolima/login-form.svg?style=for-the-badge
+[license-url]: https://github.com/MrNkolima/login-form/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/isack-philiph-0297a8247
 [product-screenshot]: screenshot.png
